@@ -100,26 +100,6 @@
       "id": 25,
       "name": "Chevrolet",
       "category": "Orange"
-    }, {
-      "id": 26,
-      "name": "Chrysler",
-      "category": "Blue"
-    }, {
-      "id": 27,
-      "name": "Lexus",
-      "category": "Orange"
-    }, {
-      "id": 28,
-      "name": "Toyota",
-      "category": "Blue"
-    }, {
-      "id": 29,
-      "name": "Honda",
-      "category": "Yellow"
-    }, {
-      "id": 30,
-      "name": "Chevrolet",
-      "category": "Purple"
     }
   ]
 }
