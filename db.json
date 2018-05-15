@@ -120,26 +120,6 @@
       "id": 30,
       "name": "Chevrolet",
       "category": "Purple"
-    }, {
-      "id": 31,
-      "name": "Cadillac",
-      "category": "Crimson"
-    }, {
-      "id": 32,
-      "name": "Lexus",
-      "category": "Violet"
-    }, {
-      "id": 33,
-      "name": "Ford",
-      "category": "Aquamarine"
-    }, {
-      "id": 34,
-      "name": "Lotus",
-      "category": "Turquoise"
-    }, {
-      "id": 35,
-      "name": "Toyota",
-      "category": "Violet"
     }
   ]
 }
